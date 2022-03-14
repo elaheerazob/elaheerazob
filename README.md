@@ -1,4 +1,3 @@
-![I'm web designer and developer...](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/69911584_2411636989092915_2253057173951086592_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=QDF59puwVbsAX8C8Sjs&_nc_ht=scontent.fdac13-1.fna&oh=00_AT83NzJojZj3nkQ5JqOhbI6X6LL0qvwTL8O1JgMltBwRLw&oe=6254BB29)
 <h1 align="center">Hi 👋, I'm ElaheeRazob</h1>
 <h3 align="center">I'm web designer and developer...</h3>
 
@@ -10,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elaheerazob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elaheerazob/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/elaheerazob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/elaheerazob" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/elaheerazob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elaheerazob" height="30" width="40" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elaheerazob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elaheerazob/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/elaheerazob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elaheerazob/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/elaheerazob)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
