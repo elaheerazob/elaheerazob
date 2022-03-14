@@ -1,4 +1,4 @@
-### Hi there 👋, ElaheeRazob
+### Hi i'm 👋, ElaheeRazob
 #### I'm web designer and developer...
 
 <h3 align="left">Languages and Tools:</h3>
